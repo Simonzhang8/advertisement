@@ -8,7 +8,7 @@
 
 详情见右侧小程序链接购买
 
-*官方福利，全新款最低价格get√，京东、天猫等平台均170+￥起步，限时福利，先到先得~*<img src="https://cdn.jsdelivr.net/gh/Simonzhang8/advertisement/casio-calculator/black_buy.jpg" width="268" height="404" style="float: right;" alt="黑色购买小程序" />
+*官方福利，全新款最低价格get√，京东、天猫等平台均170+￥起步，限时福利，先到先得~*<img src="https://cdn.jsdmirror.com/gh/Simonzhang8/advertisement/casio-calculator/black_buy.jpg" width="268" height="404" style="float: right;" alt="黑色购买小程序" />
 ## 医美
 - 植发、整形等多种项目，均有超值价，详情加微信联系
 ## 其他活动
@@ -17,4 +17,4 @@
 # 联系方式
 以上所有内容，均可加微信咨询
 
-<img src="https://cdn.jsdelivr.net/gh/Simonzhang8/advertisement/contact/wechat.jpg" width="554" height="756.5" style="float: left;" alt="微信号：Simonzha_ng" />
+<img src="https://cdn.jsdmirror.com/gh/Simonzhang8/advertisement/contact/wechat.jpg" width="554" height="756.5" style="float: left;" alt="微信号：Simonzha_ng" />
